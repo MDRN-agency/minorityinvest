@@ -6,6 +6,7 @@ GIT
       thor (~> 0.14)
 
 GEM
+  remote: https://rubygems.org/
   specs:
     actionmailer (4.1.8)
       actionpack (= 4.1.8)
