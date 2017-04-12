@@ -10,22 +10,16 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
-//= require jquery_ujs
-
-//= require plugins/pace/pace.min
 //= require plugins/jquery/jquery-1.11.1.min
 
+//= require plugins/swiper/js/swiper.min
 //= require plugins/swiper/js/swiper.jquery.min
 //= require plugins/velocity/velocity.min
 //= require plugins/velocity/velocity.ui
 
-//= require plugins/jquery-unveil/jquery.unveil.min
+// require plugins/jquery-unveil/jquery.unveil.min
 //= require plugins/text-rotate/jquery.simple-text-rotator.min
-//= require plugins/jquery-appear/jquery.appear
-//= require plugins/animateNumber/jquery.animateNumbers
 
 //= require pages/pages.image.loader
 //= require pages/pages.frontend.min
-//= require pages/pages.social.min
 //= require js/custom
