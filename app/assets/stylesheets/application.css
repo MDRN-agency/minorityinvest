@@ -10,6 +10,12 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require_tree .
- *= require_self
+ *= require plugins/pace/pace-theme-flash
+ *= require plugins/bootstrap/css/bootstrap.min
+ *= require plugins/font-awesome/css/font-awesome
+ *= require plugins/swiper/css/swiper
+ *= require plugins/text-rotate/simpletextrotator
+
+ *= require pages/css/pages.min
+ *= require pages/css/pages-icons.min
  */
